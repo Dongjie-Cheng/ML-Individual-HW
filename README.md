@@ -56,7 +56,7 @@ Requirements
 - CLIP library (e.g. `pip install git+https://github.com/openai/CLIP.git`)
 
 
-Basic usage
+Quick Start
 -----------
 
 1. (Optional) Pre-generate imbalanced support splits:
